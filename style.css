@@ -13,6 +13,10 @@
     font-size: 16px;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* Remove default margin and padding */
 body,
 h1,
